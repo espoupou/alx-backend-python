@@ -2,7 +2,7 @@
 """ run 10 times corotines """
 import asyncio
 import random
-from typing import Generator
+from collections.abc import Generator
 
 
 async def async_generator() -> Generator[float, None, None]:
