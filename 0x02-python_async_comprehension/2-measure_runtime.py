@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """run the past task four time in parallel"""
 import asyncio
 import time
